@@ -17,7 +17,7 @@
 	@define('CONST_HTTP_Proxy_Password', '');
 
 	// Software versions
-	@define('CONST_Postgresql_Version', '9.3'); // values: 9.0, ... , 9.4
+	@define('CONST_Postgresql_Version', '9.4'); // values: 9.0, ... , 9.4
 	@define('CONST_Postgis_Version', '2.1'); // values: 1.5, 2.0, 2.1
 
 	// Paths
